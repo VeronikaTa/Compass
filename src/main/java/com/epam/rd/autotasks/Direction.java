@@ -1,6 +1,4 @@
-package com.epam.rd.autotasks;
-
-import java.util.Optional;
+package com.epam.training.student_veronika_tarasova.compass.src.main.java.com.epam.rd.autotasks;
 
 public enum Direction {
     N(0), NE(45), E(90), SE(135), S(180), SW(225), W(270), NW(315);
